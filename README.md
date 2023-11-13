@@ -1,5 +1,3 @@
-Certainly! Here's a sample GitHub README file for your Python Flask weather app project:
-
 # Python Weather App
 
 Welcome to the Python Weather App project! This simple web application allows you to check the weather for a location of your choice.
