@@ -69,6 +69,6 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## Contact
 
-If you have any questions or need further assistance, please contact Segunmaru Faozan(mailto:segunfaozan112@gmail.com).
+If you have any questions or need further assistance, please contact Segunmaru Faozan(segunfaozan112@gmail.com).
 
 Enjoy using the Python Weather App!
