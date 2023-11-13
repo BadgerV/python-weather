@@ -22,4 +22,6 @@ button {
   font-size: 2rem;
   padding: 1rem;
   border-radius: 10px;
+  outline: none;
+  border: 1px solid black;
 }
